@@ -1,0 +1,15 @@
+{
+  "name": "pirem-proto",
+  "version": "1.0.0",
+  "description": "grpc proto files for pirem api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaKa2355/pirem-proto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaKa2355/pirem-proto/issues"
+  },
+  "homepage": "https://github.com/NaKa2355/pirem-proto#readme"
+}
